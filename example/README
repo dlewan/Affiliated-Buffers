@@ -1,7 +1,7 @@
 -*- text -*-
 
 This is a sample book, written in LaTeX that can be edited
-using the heytings-book application.
+using the affiliated-buffers minor mode.
 
 The door into the book is the file book.tex.
 By opening that file for editing, you should automatically
