@@ -6,7 +6,7 @@ Those buffers can, of course, have affiliated buffers too.
 (There can be no loops of affiliations.)
 
 Another aspect of affiliated buffers is
-that they may "share [buffer-]local variables.
+that they may "share [buffer-]local variables".
 This is implemented by a wrapper function for (setq)
 that is aware of the buffers affiliated with the current one.
 
