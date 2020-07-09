@@ -1,0 +1,9 @@
+-*- text -*-
+
+This is a sample book, written in LaTeX that can be edited
+using the heytings-book application.
+
+The door into the book is the file book.tex.
+By opening that file for editing, you should automatically
+get all the files for the entire books together with some familiar key bindings
+for editing the book as a whole.
